@@ -1,4 +1,4 @@
-# automated_document_analysis
+# Automated Document Analysis
 
 Many industries require document compliance checks, such as financial reports, legal contracts, or medical records. Traditionally, these checks require human review to verify text content and document structure (tables, forms, signatures, etc.). An AI-powered solution can streamline this process using LLMs and image processing.
 
